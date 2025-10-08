@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzammil Muhammed Mohiyadeen</h1>
 <h3 align="center">A passionate full stack developer (MERN) from India</h3>
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9yY3ZhNTNiaDVtOHp5MzNrcTQ3YXN4bWRvMWxxaTZjZGxhYWlhaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N0azFvOHhxMDd5Y2IxbmN5enpidXhnY3N2MXFibmtkY2syOXlzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 
